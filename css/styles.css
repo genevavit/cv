@@ -1,0 +1,22 @@
+body {
+    background-color: #EAF6F6;
+    font: italic normal normal 14px system-ui;
+}
+
+h1 {
+    color: #468b8b;
+    font: italic small-caps bold 24px cursive;
+}
+
+h3 {
+    color: #66BFBF;
+    font: italic small-caps bold 16px/2 cursive;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgray;
+    border-width: 5px;
+    width: 10%;
+}
